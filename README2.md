@@ -2,6 +2,7 @@
 
 1. コンテナを起動させる
 ```
+cd /docker
 docker compose up -d
 ```
 
